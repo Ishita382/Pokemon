@@ -10,7 +10,7 @@ border: none;
 padding: 20px;
 color: #2E4053;
 font-weight: bold;
-
+background-color: #F8F9F9;
 `
 const CustomBox = styled(Box)`
 padding: 5px;
