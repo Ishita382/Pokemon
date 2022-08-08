@@ -29,17 +29,17 @@ export const usePokemonhooks = () => {
 
     };
 
-    const pokemon_data = (url) => {
+    // const pokemon_data = (url) => {
 
-        return dispatch({
-            type: GET_POKEMON_DETAILS,
-            payload: {
-                url: url,
-            },
+    //     return dispatch({
+    //         type: GET_POKEMON_DETAILS,
+    //         payload: {
+    //             url: url,
+    //         },
 
-        });
+    //     });
 
-    };
+    // };
 
     return { get_pokemon_names, change_pokemon_names, pokemon_data };
 };
