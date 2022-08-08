@@ -1,5 +1,5 @@
-import './App.css';
-import './App.css';
+
+
 import { useSelector } from 'react-redux';
 import Heading from './Components/Heading';
 import Card from './Components/Cards';
