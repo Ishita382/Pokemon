@@ -1,5 +1,5 @@
 import React from "react"
-import { usePokemonhooks } from "../redux/Hooks/pokemonhooks";
+import { usePokemonhooks } from "../Redux/Hooks/pokemonhooks";
 
 function Button(props) {
   const { data } = props;

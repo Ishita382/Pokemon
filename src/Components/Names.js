@@ -1,5 +1,5 @@
 import React from "react";
-import { usePokemonhooks } from "../redux/Hooks/pokemonhooks";
+import { usePokemonhooks } from "../Redux/Hooks/pokemonhooks";
 import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 import { useSelector } from 'react-redux';
